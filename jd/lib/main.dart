@@ -40,7 +40,7 @@ class _MyAppState extends State<MyApp> {
         theme: ThemeData(
           // Define the default brightness and colors.
           brightness: Brightness.light,
-          primaryColor: Colors.lightBlue[800],
+          primaryColor: Colors.lightBlue[900],
 
           // Define the default font family.
           // fontFamily: 'Georgia',
